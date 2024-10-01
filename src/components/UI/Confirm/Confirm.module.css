@@ -1,0 +1,42 @@
+.confirmOuter{
+    z-index: 20;
+}
+
+.confirm{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 700rem;
+    height: 300rem;
+    border-radius: 20px;
+    background-color: #fff;
+    margin: auto;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.confirmText{
+    font-size: 38rem;
+}
+
+.cancel, .ok{
+    font-size: 28rem;
+    background-color: #fff;
+    width: 180rem;
+    height: 60rem;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+.ok{
+    background-color: #FCBF49;
+    border: none;
+    margin-left: 50rem;
+}
+.backdrop{
+    /* z-index: 30; */
+}

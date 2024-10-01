@@ -1,0 +1,31 @@
+.counter{
+    display: flex;
+    align-items: center;
+}
+.minus,.plus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #FCBF49;
+    color: #fff;
+    width: 36rem;
+    height: 36rem;
+    border-radius: 50%;
+    font-size: 24rem;
+    padding: 0;
+}
+.minus{
+    background-color: white;
+    color: #000;
+    border: 1px solid #FCBF49;
+}
+.count{
+    font-size: 24rem;
+    margin: 0 10rem;
+}
+.icon{
+    width: 10px;
+    height: 10px;
+    line-height: 10px;
+}
