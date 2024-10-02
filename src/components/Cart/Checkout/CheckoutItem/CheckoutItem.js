@@ -10,12 +10,12 @@ const CheckoutItem = (props) => {
                 <img src={props.meal.img} alt="" />
             </div>
             <div className={CheckoutItemCss.desc}>
-                <h2 className={CheckoutItemCss.title}> 
-                    <div className={CheckoutItemCss.priceOuter}>
-                        <Counter meal={props.meal}/>
-                        <div className={CheckoutItemCss.price}>{props.meal.price * props.meal.amount}</div>
-                    </div>
-                </h2>
+                
+                <h2 className={CheckoutItemCss.title}>{props.meal.title}</h2>
+                <div className={CheckoutItemCss.priceOuter}>
+                    <Counter meal={props.meal}/>
+                    <div className={CheckoutItemCss.price}>{props.meal.price * props.meal.amount}</div>
+                </div>
             </div>
         </div>
     )

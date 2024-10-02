@@ -11,6 +11,8 @@
     right: 0;
     margin: auto;
     z-index: 11;
+    cursor: pointer;
+
 }
 
 .Icon{

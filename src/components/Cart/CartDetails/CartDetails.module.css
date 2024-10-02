@@ -26,6 +26,7 @@
 .clear{
     color: #aaa;
     font-size: 24rem;
+    cursor: pointer;
 }
 
 .clear span{

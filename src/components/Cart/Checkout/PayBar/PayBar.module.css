@@ -24,7 +24,7 @@
 }
 
 .totalPrice::before{
-    content: '￥';
+    content: '$';
     font-size: 24rem;
 }
 
