@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ordering_burger_exercise/static/css/main.1be3e582.css",
-    "main.js": "/ordering_burger_exercise/static/js/main.5062b8ab.js",
+    "main.css": "/ordering_burger_exercise/static/css/main.3982c60a.css",
+    "main.js": "/ordering_burger_exercise/static/js/main.213b8464.js",
     "static/media/bag.png": "/ordering_burger_exercise/static/media/bag.c0b20df765f996bcc635.png",
     "index.html": "/ordering_burger_exercise/index.html",
-    "main.1be3e582.css.map": "/ordering_burger_exercise/static/css/main.1be3e582.css.map",
-    "main.5062b8ab.js.map": "/ordering_burger_exercise/static/js/main.5062b8ab.js.map"
+    "main.3982c60a.css.map": "/ordering_burger_exercise/static/css/main.3982c60a.css.map",
+    "main.213b8464.js.map": "/ordering_burger_exercise/static/js/main.213b8464.js.map"
   },
   "entrypoints": [
-    "static/css/main.1be3e582.css",
-    "static/js/main.5062b8ab.js"
+    "static/css/main.3982c60a.css",
+    "static/js/main.213b8464.js"
   ]
 }
