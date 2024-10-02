@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ordering_burger_exercise/static/css/main.1be3e582.css",
+    "main.js": "/ordering_burger_exercise/static/js/main.e3772112.js",
+    "static/media/bag.png": "/ordering_burger_exercise/static/media/bag.c0b20df765f996bcc635.png",
+    "index.html": "/ordering_burger_exercise/index.html",
+    "main.1be3e582.css.map": "/ordering_burger_exercise/static/css/main.1be3e582.css.map",
+    "main.e3772112.js.map": "/ordering_burger_exercise/static/js/main.e3772112.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be3e582.css",
+    "static/js/main.e3772112.js"
+  ]
+}
